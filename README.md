@@ -17,9 +17,8 @@ English Dictionary is a user-friendly web application designed to enhance vocabu
 **Definition Examples:** Definitions are enhanced with example sentences to illustrate word usage in context.
 
 ![Word-Search-1](https://github.com/user-attachments/assets/c664f990-9f46-49da-8e7c-5a6489c9d513)
-![Word-Search-2](https://github.com/user-attachments/assets/deaab0de-fa08-4615-96f0-cec17dca3415)
-![Word-Search-3](https://github.com/user-attachments/assets/e0a99f98-7dee-4352-89a4-37c50dc015ab)
-
+![Word-Search-2](https://github.com/user-attachments/assets/60d3436c-564b-4cc7-aecd-2e4fb472144a)
+![Word-Search-3](https://github.com/user-attachments/assets/600e7f96-5134-4e01-a8e1-84cbc0734ac0)
 
 ## 2. Saved Words
 
