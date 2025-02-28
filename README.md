@@ -24,6 +24,7 @@ English Dictionary is a user-friendly web application designed to enhance vocabu
 ## 2. Saved Words
 
 **List of Saved Words:** This section provides a dedicated space to view all the words you have saved from the "Search Word" section.
+
 **Offline Access:** Access your saved word list anytime, anywhere, even without an internet connection. This feature is perfect for reviewing vocabulary on the go, **but it's only accessible if you run it locally.**
 
 ![Saved-Words-1](https://github.com/user-attachments/assets/59d2c904-0536-43f2-a9ae-4c5929a70049)
