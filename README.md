@@ -41,26 +41,27 @@ This section makes learning fun and interactive with three different game modes:
 **Meaning Game:** Test your understanding of word definitions. A definition is provided, and you must select the correct word from multiple-choice options.
 
 ![Dictionary-Game-3](https://github.com/user-attachments/assets/2c44aa9c-caf9-4c85-8425-ccfa71aa750b)
-![Dictionary-Game-4](https://github.com/user-attachments/assets/5c181bde-6616-4630-9695-b8176a1a6ce6)
-![Dictionary-Game-5](https://github.com/user-attachments/assets/c8578fcd-ca83-4f04-92c5-a2bebb64d494)
+![Dictionary-Game-4](https://github.com/user-attachments/assets/d844e8c7-9591-4915-bff1-d5bde10c6bc7)
+![Dictionary-Game-5](https://github.com/user-attachments/assets/5c181bde-6616-4630-9695-b8176a1a6ce6)
+![Dictionary-Game-6](https://github.com/user-attachments/assets/c8578fcd-ca83-4f04-92c5-a2bebb64d494)
 
 **Antonym-Synonym Game:** Challenge your knowledge of word relationships. All synonyms and antonyms of a word are presented, and you need to identify the target word.
 
-![Dictionary-Game-6](https://github.com/user-attachments/assets/809d34a7-d1da-40b9-a0cd-bb03a373c516)
+![Dictionary-Game-7](https://github.com/user-attachments/assets/809d34a7-d1da-40b9-a0cd-bb03a373c516)
 
 **Pronunciation Game:** Improve your listening and word recognition skills. Listen to the pronunciation of a word and select the correct word from the options.
 
-![Dictionary-Game-7](https://github.com/user-attachments/assets/785f881f-6bcc-4409-a241-fe44ac5ea834)
+![Dictionary-Game-8](https://github.com/user-attachments/assets/785f881f-6bcc-4409-a241-fe44ac5ea834)
 
 **Score Tracking:** After each quiz, your score is displayed, allowing you to track your progress and challenge yourself.
 
-![Dictionary-Game-8](https://github.com/user-attachments/assets/6d55bd5e-f7dd-49e9-af4c-a9b84fe2d577)
+![Dictionary-Game-9](https://github.com/user-attachments/assets/6d55bd5e-f7dd-49e9-af4c-a9b84fe2d577)
 
 **Saved Words as Quiz Source:** The words used in the quizzes are intelligently selected from your "Saved Words" list, ensuring that you are tested on words you have previously encountered and saved for learning.
 
 **Quiz Unlock Conditions:** To ensure a meaningful quiz experience, the "Dictionary Game" section is unlocked after you have saved at least 4 words. Furthermore, each game type has specific conditions to ensure relevance (e.g., the Antonym-Synonym game only includes words that have at least one synonym or antonym).
 
-![Dictionary-Game-9](https://github.com/user-attachments/assets/0eb9fb34-900d-4c6c-83f8-45e042c8ae90)
+![Dictionary-Game-10](https://github.com/user-attachments/assets/0eb9fb34-900d-4c6c-83f8-45e042c8ae90)
 
 ## Dark Mode
 **Eye-Friendly Interface:** For comfortable use, especially during nighttime or in low-light conditions, the application includes a dark mode option. This reduces eye strain and enhances the user experience in various environments.
