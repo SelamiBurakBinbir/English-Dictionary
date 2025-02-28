@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="src/css/style.css" />
+    <link rel="icon" href="src/img/icon.png" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Symbols+Outlined"
+      rel="stylesheet"
+    />
+
+    <title>English Dictionary App</title>
+
+    <script type="module" defer src="src/js/controller.js"></script>
+    <script type="module" defer src="src/js/sidebar.js"></script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <div class="navbar">
+        <div class="bars">
+          <span class="material-symbols-outlined bars-icon" style="font-size: 32px">menu</span>
+        </div>
+
+        <div class="header">English Dictionary</div>
+
+        <div class="links">
+          <a href="https://dictionaryapi.dev/" target="_blank"
+            ><img src="src/img/api.png" alt="api-icon"
+          /></a>
+          <a href="https://www.linkedin.com/in/selami-burak-binbir-746761234/" target="_blank"
+            ><img src="src/img/linkedin.png" alt="linkedin-icon"
+          /></a>
+          <a href="https://github.com/SelamiBurakBinbir" target="_blank"
+            ><img src="src/img/github.png" alt="github-icon"
+          /></a>
+        </div>
+      </div>
+
+      <div class="main_container">
+        <div class="sidebar">
+          <ul>
+            <li class="sidebar-btn search-word-btn sidebar-btn-selected">
+              <span class="icon">
+                <span class="material-symbols-outlined"> travel_explore </span>
+              </span>
+              <span class="title">Search Word</span>
+            </li>
+            <li class="sidebar-btn saved-words-btn">
+              <span class="icon">
+                <span class="material-symbols-outlined"> collections_bookmark </span>
+              </span>
+              <span class="title">Saved Words</span>
+            </li>
+            <li class="sidebar-btn play-game-btn">
+              <span class="icon">
+                <span class="material-symbols-outlined"> stadia_controller </span>
+              </span>
+              <span class="title">Play Dictionary Game</span>
+            </li>
+          </ul>
+
+          <div class="dark-mode">
+            <div class="mode">
+              <span class="icon">
+                <span class="material-symbols-outlined"> dark_mode </span>
+              </span>
+              <span class="title">Dark Mode</span>
+            </div>
+
+            <div class="toggle-dark-mode">
+              <span class="switch"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="container">
+          <section class="content">
+            <div class="div1">
+              <form class="search-bar">
+                <input
+                  type="search"
+                  class="search-field"
+                  placeholder="Search Word..."
+                  autocomplete="off"
+                />
+                <button class="search-btn">
+                  <span class="material-symbols-outlined"> search </span>
+                </button>
+              </form>
+            </div>
+            <div class="div2">
+              <p class="word-initial">
+                Search an english word. Its meanings, phonetics, synonyms and antonyms will appear
+                here.
+              </p>
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
