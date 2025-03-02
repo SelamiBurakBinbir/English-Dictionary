@@ -1,7 +1,13 @@
 # You can try [English Dictionary](https://english-dictionary-tawny-seven.vercel.app/) on Vercel!
-English Dictionary is a user-friendly web application designed to enhance vocabulary learning and word exploration. This application is divided into three main sections, catering to different aspects of dictionary usage and vocabulary building. Whether you are a student, a language enthusiast, or simply looking to expand your English vocabulary, this application provides a comprehensive and engaging experience.
 
-### 📚 This application offers a wide array of features across its three sections:
+### Technologies Used
+HTML, CSS and JavaScript (No Framework).
+
+***
+
+English Dictionary is a user-friendly web application designed to enhance vocabulary learning and word exploration. This **front-end** application is divided into three main sections, catering to different aspects of dictionary usage and vocabulary building. Whether you are a student, a language enthusiast, or simply looking to expand your English vocabulary, this application provides a comprehensive and engaging experience.
+
+### This application offers a wide array of features across its three sections:
 
 ## 1. Search Word
 **Word Search:** Quickly look up any English word to access its definition, part of speech, and related information.
@@ -71,9 +77,6 @@ This section makes learning fun and interactive with three different game modes:
 ![Dark-Mode-3](https://github.com/user-attachments/assets/477f7ab4-6a98-44e9-b210-f900ce5d3690)
 ![Dark-Mode-4](https://github.com/user-attachments/assets/97c7882d-3ba4-4b51-9204-983bb7f5c9aa)
 ![Dark-Mode-5](https://github.com/user-attachments/assets/1e712aef-9883-44c0-8c56-91e25e0f6635)
-
-### Technologies Used
-Only HTML, CSS and JavaScript were used in the development of this project (No Framework).
 
 ### Special Thanks to the Free Dictionary API Provider
 We extend our sincere gratitude to the provider of the free dictionary API that powers this application. The link to the API documentation is located in the navigation bar of the application for your reference. Thank you for providing such a valuable resource to the developer community!
