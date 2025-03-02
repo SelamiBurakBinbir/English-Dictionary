@@ -1,11 +1,11 @@
 # You can try [English Dictionary](https://english-dictionary-tawny-seven.vercel.app/) on Vercel!
 
-### Technologies Used
-HTML, CSS and JavaScript (No Framework).
+English Dictionary is a user-friendly web application designed to enhance vocabulary learning and word exploration. This **front-end** application is divided into three main sections, catering to different aspects of dictionary usage and vocabulary building. Whether you are a student, a language enthusiast, or simply looking to expand your English vocabulary, this application provides a comprehensive and engaging experience.
 
 ***
-
-English Dictionary is a user-friendly web application designed to enhance vocabulary learning and word exploration. This **front-end** application is divided into three main sections, catering to different aspects of dictionary usage and vocabulary building. Whether you are a student, a language enthusiast, or simply looking to expand your English vocabulary, this application provides a comprehensive and engaging experience.
+### Technologies Used
+HTML, CSS and JavaScript (No Framework).
+***
 
 ### This application offers a wide array of features across its three sections:
 
