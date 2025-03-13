@@ -78,5 +78,7 @@ This section makes learning fun and interactive with three different game modes:
 ![Dark-Mode-4](https://github.com/user-attachments/assets/97c7882d-3ba4-4b51-9204-983bb7f5c9aa)
 ![Dark-Mode-5](https://github.com/user-attachments/assets/1e712aef-9883-44c0-8c56-91e25e0f6635)
 
+***
+
 ### Special Thanks to the Free Dictionary API Provider
 We extend our sincere gratitude to the provider of the free dictionary API that powers this application. The link to the API documentation is located in the navigation bar of the application for your reference. Thank you for providing such a valuable resource to the developer community!
